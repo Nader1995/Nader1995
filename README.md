@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nader1995. I am a graduate physics student interested in high tech.
 - 👀 I’m also interested in blockchain technology. 
-- 🌱 I’m currently learning Solidity.
+- 🌱 I’m currently working on Blockchain development.
 - 📫 How to reach me: n.safarinia@gmail.com
 
 <!---
