@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nader1995. I am a graduate physics student interested in high tech.
-- 👀 I’m also interested in blockchain technology. 
-- 🌱 
+- 👀 I’m also love quantum technology. 
+- 🌱 Teacher/Researcher/lover/Fighter. Half human half beast
 - 📫 How to reach me: n.safarinia@gmail.com
 
 <!---
