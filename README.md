@@ -1,13 +1,23 @@
-Hi, I’m Nader 👋
-MSc in Physics | Teacher | Researcher
+# Hi, I'm Nader 👋
 
-🔭 Interested in quantum technologies, data science, and scientific computing
-💻 Working with Python, Julia, MATLAB, and computational physics tools
-📚 Physics & mathematics Teacher with experience teaching IGCSE and A-Level
-🌱 Currently exploring data science, AI, and quantum mechanics
-⚡ Building projects at the intersection of physics, computation, and emerging technologies
+MSc Physics graduate | Teacher | Researcher
 
-📫 Reach me: nader.safari@proton.me
+🔭 Interested in:
+- Quantum technologies
+- Data science
+- Scientific computing
+
+💻 Programming:
+Python • Julia • MATLAB
+
+📚 Experience:
+Physics & mathematics educator (IGCSE / A-Level)
+
+🌱 Currently learning:
+Data science, AI
+
+📫 Contact:
+nader.safari@proton.me
 
 <!---
 Nader1995/Nader1995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
