@@ -3,7 +3,7 @@
 MSc Physics graduate | Teacher | Researcher
 
 🔭 Interested in:
-- Quantum technologies
+- Dynamics of Open Quantum Systems
 - Data science
 - Scientific computing
 
